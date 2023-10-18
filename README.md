@@ -1,2 +1,2 @@
-# app-pystd
-Learning python from scratch
+# Python Studies
+I'm currently learning python from scratch.
