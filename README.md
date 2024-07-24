@@ -1,2 +1,2 @@
 # Python
-Coding in Python
+Python programming.
